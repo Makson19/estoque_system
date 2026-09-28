@@ -50,6 +50,20 @@ estoque_system/
 
 ## 💻 Como Executar
 
+### Clonar o repositório
+
+Clone este repositório utilizando o Git:
+
+```bash
+https://github.com/Makson19/estoque_system.git
+```
+
+Em seguida, entre na pasta do projeto:
+
+```bash
+cd estoque_system
+```
+
 ### Pré-requisitos
 - **Java JDK** instalado (versão 17 ou superior recomendada).
 
